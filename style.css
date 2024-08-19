@@ -14,6 +14,7 @@ nav ul {
     display: flex;
     padding-left: 0;
     list-style-type: none;
+    justify-content: center;
     cursor: pointer;
 }
 
